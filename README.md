@@ -2,7 +2,6 @@
 
 A modern, full-stack web application that helps users find compatible roommates and shared housing. Built with React, Node.js, and MongoDB, featuring a beautiful glassmorphism UI design.
 
-![Roommate Finder](https://via.placeholder.com/800x400/1e293b/ffffff?text=Roommate+Finder+App)
 
 ## ✨ Features
 
